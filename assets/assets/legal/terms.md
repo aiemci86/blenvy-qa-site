@@ -1,17 +1,17 @@
-# Ramevy Terms and Conditions (Draft)
+# Blenvy Terms and Conditions (Draft)
 
 **Last updated:** May 20, 2026  
 **Status:** Draft content to be finalized before launch.
 
 ## Introduction
 
-These Terms and Conditions describe the rules for using Ramevy.
+These Terms and Conditions describe the rules for using Blenvy.
 
-By creating or using a Ramevy account, you agree to these terms.
+By creating or using a Blenvy account, you agree to these terms.
 
 ## Service overview
 
-Ramevy provides personal finance and shared-expense tracking features, including:
+Blenvy provides personal finance and shared-expense tracking features, including:
 
 * personal transaction tracking
 * categorization and rules
@@ -27,7 +27,7 @@ You agree to provide accurate information and keep it reasonably up to date.
 
 ## Acceptable use
 
-You agree not to misuse Ramevy, attempt unauthorized access, interfere with service operation, or use the service for unlawful activity.
+You agree not to misuse Blenvy, attempt unauthorized access, interfere with service operation, or use the service for unlawful activity.
 
 ## Shared group content
 
@@ -35,7 +35,7 @@ When you use group features, information you add to shared groups may be visible
 
 ## Data and privacy
 
-Your use of Ramevy is also governed by the Ramevy Privacy Policy.
+Your use of Blenvy is also governed by the Blenvy Privacy Policy.
 
 ## Availability and changes
 
@@ -45,14 +45,14 @@ We may also update these Terms. For major updates, we may require you to review 
 
 ## Disclaimer and liability
 
-Ramevy is provided on an "as is" and "as available" basis to the extent permitted by applicable law.
+Blenvy is provided on an "as is" and "as available" basis to the extent permitted by applicable law.
 
 Nothing in these terms excludes rights that cannot be excluded under applicable law.
 
 ## Termination
 
-You may stop using Ramevy at any time. We may suspend or terminate access where necessary to protect users, the service, or legal compliance.
+You may stop using Blenvy at any time. We may suspend or terminate access where necessary to protect users, the service, or legal compliance.
 
 ## Contact
 
-For legal or account questions, contact: hello@ramevy.com
+For legal or account questions, contact: hello@blenvy.com

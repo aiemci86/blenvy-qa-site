@@ -1,20 +1,20 @@
-**Ramevy Privacy Policy**
+**Blenvy Privacy Policy**
 
 **Last updated:** May 18, 2026
 
 ## Introduction
 
-Ramevy is a personal finance and shared-expense tracking application that helps users manage personal transactions, shared expenses, group balances, settlements, and financial insights.
+Blenvy is a personal finance and shared-expense tracking application that helps users manage personal transactions, shared expenses, group balances, settlements, and financial insights.
 
-This Privacy Policy explains how Ramevy collects, uses, stores, and shares personal data when you use the app and related services.
+This Privacy Policy explains how Blenvy collects, uses, stores, and shares personal data when you use the app and related services.
 
 ## Who we are
 
-Ramevy is operated by **[YOUR LEGAL NAME OR ENTITY]**, based in **[COUNTRY]**.
+Blenvy is operated by **[YOUR LEGAL NAME OR ENTITY]**, based in **[COUNTRY]**.
 
 If you have questions about this Privacy Policy or your personal data, you can contact us at:
 
-**[hello@ramevy.com](mailto:hello@ramevy.com)**
+**[hello@blenvy.com](mailto:hello@blenvy.com)**
 
 ## Information we collect
 
@@ -73,7 +73,7 @@ We may process limited technical data needed to operate, secure, and troubleshoo
 
 We use personal data to:
 
-* provide and operate the Ramevy app and its features
+* provide and operate the Blenvy app and its features
 * authenticate users and maintain accounts
 * store, sync, and display personal transaction data
 * generate categorization, balances, summaries, and insights
@@ -106,7 +106,7 @@ Where applicable law requires us to retain or disclose certain information.
 
 ## Shared group information
 
-Ramevy includes shared and collaborative financial features.
+Blenvy includes shared and collaborative financial features.
 
 Information you add to shared groups may be visible to other members of the relevant group in line with the app’s functionality. This may include, for example:
 
@@ -165,7 +165,7 @@ Depending on your location and applicable law, you may have rights to:
 
 To exercise privacy-related rights or ask questions, contact:
 
-**[hello@ramevy.com](mailto:hello@ramevy.com)**
+**[hello@blenvy.com](mailto:hello@blenvy.com)**
 
 ## Security
 
@@ -175,7 +175,7 @@ However, no system can guarantee absolute security.
 
 ## Children
 
-Ramevy is not intended for children under the age required by applicable local law, and we do not knowingly collect personal data from children.
+Blenvy is not intended for children under the age required by applicable local law, and we do not knowingly collect personal data from children.
 
 ## Changes to this Privacy Policy
 
@@ -189,4 +189,4 @@ Where required, we may ask users to review and accept updated terms or policies 
 
 For privacy questions or requests, contact:
 
-**[hello@ramevy.com](mailto:hello@ramevy.com)**
+**[hello@blenvy.com](mailto:hello@blenvy.com)**
