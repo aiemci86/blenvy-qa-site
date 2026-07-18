@@ -31710,8 +31710,8 @@ bbf(a){return new A.vv(a)},
 X4(){return!1},
 ou(a){var s,r
 A:{s=""
-if("REVENUECAT_TEST_API_KEY"===a)break A
-if("REVENUECAT_IOS_API_KEY"===a)break A
+if("REVENUECAT_TEST_API_KEY"===a){s="test_iOaViNZkImCKqvptDHfAqoplGPN"
+break A}if("REVENUECAT_IOS_API_KEY"===a)break A
 if("REVENUECAT_ANDROID_API_KEY"===a)break A
 if("BLENVY_REVENUECAT_WEB_BILLING_BASE_URL"===a){s="https://pay.rev.cat/sandbox/pizufrtedttbbrvt/"
 break A}if("BLENVY_REVENUECAT_WEB_MONTHLY_PACKAGE_ID"===a){s="pkge98bf29a8bb"
