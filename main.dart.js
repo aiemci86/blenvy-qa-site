@@ -34867,13 +34867,13 @@ s=6
 break
 case 3:s=2
 break
-case 6:m=B.b.J("2026-07-19T11:06:52Z").length===0?null:A.dc("2026-07-19T11:06:52Z")
+case 6:m=B.b.J("2026-07-19T12:45:34Z").length===0?null:A.dc("2026-07-19T12:45:34Z")
 l=i
 l=A.R0(l==null?null:l.c,"unknown")
 k=i
 k=A.R0(k==null?null:k.d,"unknown")
 j=i
-q=$.b3t=new A.R1(l,k,A.R0(j==null?null:j.b,"unknown"),A.bjM(),A.R0("qa","local").toLowerCase(),A.R0("53b0ff729b4e6daaceafbbdfd2a88f76d845e68b","unknown"),m)
+q=$.b3t=new A.R1(l,k,A.R0(j==null?null:j.b,"unknown"),A.bjM(),A.R0("qa","local").toLowerCase(),A.R0("dff1818558be91e96a33929fc4e0e86227d6df95","unknown"),m)
 s=1
 break
 case 1:return A.m(q,r)
@@ -113548,6 +113548,7 @@ if(B.b.m(r.j(a).toLowerCase(),"plan_group_limit_reached"))return"Free plan suppo
 s=r.j(a).toLowerCase()
 if(B.b.m(s,"invalid or expired invite"))return"Invite not found or expired. Please ask for a fresh invite link/code."
 if(B.b.m(s,"not logged in"))return"Please log in first, then try again."
+if(B.b.m(s,"account_class_group_mismatch"))return"This account cannot join that group because internal test and customer accounts are kept separate."
 return"Could not join the group. Please check the invite code/link and try again."},
 uG(){var s=0,r=A.o(t.H),q,p=this,o
 var $async$uG=A.p(function(a,b){if(a===1)return A.l(b,r)
@@ -125861,60 +125862,60 @@ s=this.e
 s.V$=r
 s.O$=0
 this.ap()},
-nG(){var s=0,r=A.o(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3
-var $async$nG=A.p(function(a4,a5){if(a4===1){o.push(a5)
-s=p}for(;;)switch(s){case 0:a1=m.e
-a2=B.b.J(a1.a.a)
-if(J.ah(a2)===0){i=m.c
+nG(){var s=0,r=A.o(t.H),q,p=2,o=[],n=[],m=this,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4
+var $async$nG=A.p(function(a5,a6){if(a5===1){o.push(a6)
+s=p}for(;;)switch(s){case 0:a2=m.e
+a3=B.b.J(a2.a.a)
+if(J.ah(a3)===0){i=m.c
 if(i==null){s=1
 break}i.M(t.q).f.az(B.a5P)
 s=1
 break}m.v(new A.aZc(m))
 p=4
-e=$.ai()
-d=e.b
-d===$&&A.a()
-d=d.gaK().c
-d=d==null?null:d.r
-l=d==null?null:d.a
+d=$.ai()
+c=d.b
+c===$&&A.a()
+c=c.gaK().c
+c=c==null?null:c.r
+l=c==null?null:c.a
 s=7
 return A.e(A.xb(),$async$nG)
-case 7:k=a5
+case 7:k=a6
 s=8
 return A.e(A.Db(),$async$nG)
-case 8:j=a5
-e=e.b.aP("support_requests")
-d=t.N
-c=t.z
-i=A.x(d,c)
+case 8:j=a6
+d=d.b.aP("support_requests")
+c=t.N
+b=t.z
+i=A.x(c,b)
 J.ck(i,"user_id",l)
 J.ck(i,"request_type",m.a.c)
-b=m.f
-b===$&&A.a()
-J.ck(i,"category",b)
-b=m.d
-a=B.b.J(b.a.a)
-if(a.length===0)a=null
-J.ck(i,"subject",a)
-J.ck(i,"message",a2)
+a=m.f
+a===$&&A.a()
+J.ck(i,"category",a)
+a=m.d
+a0=B.b.J(a.a.a)
+if(a0.length===0)a0=null
+J.ck(i,"subject",a0)
+J.ck(i,"message",a3)
 J.ck(i,"platform",j.d)
 J.hU(i,j.TF())
 J.ck(i,"acquisition_channel",k)
 J.ck(i,"screen_context",m.a.e)
 J.ck(i,"group_id",m.a.w)
 s=9
-return A.e(e.fm(0,i),$async$nG)
+return A.e(d.fm(0,i),$async$nG)
 case 9:i=m.a.c==="feedback"?"feedback_submitted":"support_request_submitted"
-h=A.x(d,c)
+h=A.x(c,b)
 J.ck(h,"category",m.f)
-e=m.a.e
-if(e!=null)J.ck(h,"screen_context",e)
+d=m.a.e
+if(d!=null)J.ck(h,"screen_context",d)
 s=10
 return A.e(A.eS(i,h),$async$nG)
 case 10:i=m.a
 s=i.c==="feedback"&&i.f!=null?11:12
 break
-case 11:g=A.x(d,c)
+case 11:g=A.x(c,b)
 J.ck(g,"category",m.f)
 i=m.a.e
 if(i!=null)J.ck(g,"screen_context",i)
@@ -125929,8 +125930,8 @@ case 13:case 12:s=14
 return A.e(A.tj(),$async$nG)
 case 14:if(m.c==null){n=[1]
 s=5
-break}b.hx(B.f6)
-a1.hx(B.f6)
+break}a.hx(B.f6)
+a2.hx(B.f6)
 m.v(new A.aZd(m))
 i=m.c.M(t.q).f
 i.az(A.cm(null,null,null,null,null,B.j,null,A.i(m.a.c==="feedback"?"Feedback sent. Thank you.":"Support request sent.",null,null,null,null,null,null,null,null),null,B.u,null,null,null,null,null,null,null,null,null,null))
@@ -125938,12 +125939,12 @@ n.push(6)
 s=5
 break
 case 4:p=3
-a3=o.pop()
-f=A.Z(a3)
-i=m.c
-if(i==null){n=[1]
+a4=o.pop()
+f=A.Z(a4)
+if(m.c==null){n=[1]
 s=5
-break}i.M(t.q).f.az(A.cm(null,null,null,null,null,B.j,null,A.i("Could not send support request: "+A.k(f),null,null,null,null,null,null,null,null),null,B.u,null,null,null,null,null,null,null,null,null,null))
+break}e=B.b.m(J.w(f),"internal_canary_support_disabled")?"Internal canary accounts should report technical findings through Report a bug.":"Could not send support request: "+A.k(f)
+m.c.M(t.q).f.az(A.cm(null,null,null,null,null,B.j,null,A.i(e,null,null,null,null,null,null,null,null),null,B.u,null,null,null,null,null,null,null,null,null,null))
 n.push(6)
 s=5
 break
