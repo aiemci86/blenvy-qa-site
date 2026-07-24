@@ -49,6 +49,49 @@ Blenvy is provided on an "as is" and "as available" basis to the extent permitte
 
 Nothing in these terms excludes rights that cannot be excluded under applicable law.
 
+## Subscriptions, Cancellation and Refunds
+
+### Subscription Billing
+
+Certain features of Blenvy are available through a recurring subscription ("Blenvy Premium"). By purchasing a subscription, you authorise the applicable payment provider to charge the subscription fee at the intervals displayed during checkout until the subscription is cancelled.
+
+Subscription pricing, billing frequency and available plans are presented before purchase.
+
+### Subscription Management
+
+How you manage your subscription depends on where you purchased it:
+
+* **Web purchases:** You may manage or cancel your subscription through the Blenvy Customer Portal or by contacting us at [support@blenvy.com](mailto:support@blenvy.com).
+* **Apple App Store purchases:** Subscriptions are managed by Apple and must be cancelled through your Apple Account settings.
+* **Google Play purchases:** Subscriptions are managed through your Google Play account settings.
+* Other purchase channels may provide their own subscription management process.
+
+Unless otherwise stated, cancelling a subscription prevents future renewals but does not normally affect access to Premium features until the end of the current paid billing period.
+
+### Refunds
+
+Refund eligibility depends on the platform through which the subscription was purchased.
+
+* **Web purchases:** If you believe you are entitled to a refund, please contact us at [support@blenvy.com](mailto:support@blenvy.com). Where applicable, refunds may be issued for the most recent subscription period in accordance with these Terms and applicable law.
+* **Apple App Store purchases:** Refund requests are processed solely by Apple in accordance with Apple's policies. Blenvy cannot approve or issue refunds for purchases made through the Apple App Store.
+* **Google Play purchases:** Refund requests are subject to Google Play's policies. Where permitted, we may assist with eligible refund requests in accordance with the applicable platform rules.
+* Other payment providers may have their own refund procedures and policies.
+
+Where a refund is granted, access to Premium features may be revoked immediately.
+
+### Customer Support
+
+If you experience billing issues, duplicate charges or have questions regarding your subscription, please contact us at [support@blenvy.com](mailto:support@blenvy.com) before initiating a payment dispute whenever possible. We will make reasonable efforts to help resolve the issue promptly.
+
+### Consumer Rights
+
+Nothing in these Terms limits any mandatory consumer rights that apply under the laws of your country of residence.
+
+If you are a consumer in the European Union, you may have statutory rights regarding digital content and digital services. Where applicable, these rights remain unaffected by these Terms.
+
+If you expressly request immediate access to Blenvy Premium before the end of any statutory withdrawal period, your right to withdraw may be affected to the extent permitted by applicable law. Any such consent or acknowledgement required by law will be requested during the purchase process where applicable.
+
+
 ## Termination
 
 You may stop using Blenvy at any time. We may suspend or terminate access where necessary to protect users, the service, or legal compliance.
