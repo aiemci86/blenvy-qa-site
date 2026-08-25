@@ -53,7 +53,7 @@ Nothing in these terms excludes rights that cannot be excluded under applicable 
 
 ### Subscription Billing
 
-Certain features of Blenvy are available through a recurring subscription ("Blenvy Premium"). By purchasing a subscription, you authorise the applicable payment provider to charge the subscription fee at the intervals displayed during checkout until the subscription is cancelled.
+Certain features of Blenvy are available through a recurring subscription ("Blenvy Plus"). By purchasing a subscription, you authorise the applicable payment provider to charge the subscription fee at the intervals displayed during checkout until the subscription is cancelled.
 
 Subscription pricing, billing frequency and available plans are presented before purchase.
 
@@ -61,12 +61,12 @@ Subscription pricing, billing frequency and available plans are presented before
 
 How you manage your subscription depends on where you purchased it:
 
-* **Web purchases:** You may manage or cancel your subscription through the Blenvy Customer Portal or by contacting us at [support@blenvy.com](mailto:support@blenvy.com).
+* **Web purchases:** Blenvy does not currently provide an in-app web subscription-management portal. Contact us at [support@blenvy.com](mailto:support@blenvy.com) for assistance with a web purchase.
 * **Apple App Store purchases:** Subscriptions are managed by Apple and must be cancelled through your Apple Account settings.
 * **Google Play purchases:** Subscriptions are managed through your Google Play account settings.
 * Other purchase channels may provide their own subscription management process.
 
-Unless otherwise stated, cancelling a subscription prevents future renewals but does not normally affect access to Premium features until the end of the current paid billing period.
+Unless otherwise stated, cancelling a subscription prevents future renewals but does not normally affect access to Blenvy Plus features until the end of the current paid billing period.
 
 ### Refunds
 
@@ -74,10 +74,10 @@ Refund eligibility depends on the platform through which the subscription was pu
 
 * **Web purchases:** If you believe you are entitled to a refund, please contact us at [support@blenvy.com](mailto:support@blenvy.com). Where applicable, refunds may be issued for the most recent subscription period in accordance with these Terms and applicable law.
 * **Apple App Store purchases:** Refund requests are processed solely by Apple in accordance with Apple's policies. Blenvy cannot approve or issue refunds for purchases made through the Apple App Store.
-* **Google Play purchases:** Refund requests are subject to Google Play's policies. Where permitted, we may assist with eligible refund requests in accordance with the applicable platform rules.
+* **Google Play purchases:** Refund requests are subject to Google Play's process and policies. Blenvy cannot promise approval of a refund controlled by Google Play.
 * Other payment providers may have their own refund procedures and policies.
 
-Where a refund is granted, access to Premium features may be revoked immediately.
+Where a refund is granted, access to Blenvy Plus features may be revoked immediately.
 
 ### Customer Support
 
@@ -89,7 +89,7 @@ Nothing in these Terms limits any mandatory consumer rights that apply under the
 
 If you are a consumer in the European Union, you may have statutory rights regarding digital content and digital services. Where applicable, these rights remain unaffected by these Terms.
 
-If you expressly request immediate access to Blenvy Premium before the end of any statutory withdrawal period, your right to withdraw may be affected to the extent permitted by applicable law. Any such consent or acknowledgement required by law will be requested during the purchase process where applicable.
+If you expressly request immediate access to Blenvy Plus before the end of any statutory withdrawal period, your right to withdraw may be affected to the extent permitted by applicable law. Any such consent or acknowledgement required by law will be requested during the purchase process where applicable.
 
 
 ## Termination
