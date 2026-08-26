@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
-    "theme_color": "#03A8C4",
+    "theme_color": "#007F99",
     "description": "Blenvy helps you manage personal finances, shared expenses, and settlements.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
