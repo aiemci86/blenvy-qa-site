@@ -121,11 +121,21 @@ Users should avoid including unnecessary sensitive personal information in share
 
 ## Service providers and infrastructure
 
+### Subscriptions and payment providers
+
+Web subscription purchasing is not enabled at launch, and Blenvy Free remains
+available on the web. Apple App Store and Google Play subscriptions will be
+handled through their respective stores when those offerings are launched.
+RevenueCat may synchronise a mobile Blenvy Plus entitlement across signed-in
+Blenvy platforms using the same account. Stripe is not currently part of the
+active public Blenvy payment flow while web billing is disabled.
+
 We use third-party service providers that help us operate the app and related infrastructure, including authentication, database, hosting, storage, delivery, and support-related services.
 
 This may include providers such as:
 
 * **Supabase**
+* **Sentry**, for limited application error/crash diagnosis and service-availability monitoring, with data-minimisation and scrubbing controls enabled
 * web/domain/email infrastructure providers used to operate the service and support channels
 
 These providers process personal data on our behalf where needed to provide the service.

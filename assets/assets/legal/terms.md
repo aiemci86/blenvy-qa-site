@@ -53,18 +53,15 @@ Nothing in these terms excludes rights that cannot be excluded under applicable 
 
 ### Subscription Billing
 
-Certain features of Blenvy are available through a recurring subscription ("Blenvy Plus"). By purchasing a subscription, you authorise the applicable payment provider to charge the subscription fee at the intervals displayed during checkout until the subscription is cancelled.
-
-Subscription pricing, billing frequency and available plans are presented before purchase.
+At launch, Blenvy Free is available on the web. Web subscription purchasing is not enabled, so Blenvy does not offer or open a web checkout. Apple App Store and Google Play subscriptions will be handled through their respective stores when those offerings are launched. RevenueCat may synchronise a mobile entitlement across signed-in Blenvy platforms using the same account.
 
 ### Subscription Management
 
 How you manage your subscription depends on where you purchased it:
 
-* **Web purchases:** Blenvy does not currently provide an in-app web subscription-management portal. Contact us at [support@blenvy.com](mailto:support@blenvy.com) for assistance with a web purchase.
 * **Apple App Store purchases:** Subscriptions are managed by Apple and must be cancelled through your Apple Account settings.
 * **Google Play purchases:** Subscriptions are managed through your Google Play account settings.
-* Other purchase channels may provide their own subscription management process.
+* Web purchasing is not enabled at launch. Stripe is not currently part of Blenvy’s active public payment flow.
 
 Unless otherwise stated, cancelling a subscription prevents future renewals but does not normally affect access to Blenvy Plus features until the end of the current paid billing period.
 
@@ -72,10 +69,9 @@ Unless otherwise stated, cancelling a subscription prevents future renewals but 
 
 Refund eligibility depends on the platform through which the subscription was purchased.
 
-* **Web purchases:** If you believe you are entitled to a refund, please contact us at [support@blenvy.com](mailto:support@blenvy.com). Where applicable, refunds may be issued for the most recent subscription period in accordance with these Terms and applicable law.
 * **Apple App Store purchases:** Refund requests are processed solely by Apple in accordance with Apple's policies. Blenvy cannot approve or issue refunds for purchases made through the Apple App Store.
 * **Google Play purchases:** Refund requests are subject to Google Play's process and policies. Blenvy cannot promise approval of a refund controlled by Google Play.
-* Other payment providers may have their own refund procedures and policies.
+* Web purchasing is not enabled at launch, so there is no active web payment or refund flow.
 
 Where a refund is granted, access to Blenvy Plus features may be revoked immediately.
 
