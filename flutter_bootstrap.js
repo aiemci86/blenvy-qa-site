@@ -41,9 +41,9 @@ _flutter.buildConfig = {"engineRevision":"af7e796e161ae0bb1ff0758c71a7105418bd9d
 
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "4088568511" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+    serviceWorkerVersion: "433552958" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
   }
 });
-!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="fd36c575-b291-5e6b-8355-b94d3c949fbb")}catch(e){}}();
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="3f8a0bf5-8b8d-535f-9450-733769491497")}catch(e){}}();
 //# sourceMappingURL=flutter.js.map
-//# debugId=fd36c575-b291-5e6b-8355-b94d3c949fbb
+//# debugId=3f8a0bf5-8b8d-535f-9450-733769491497
