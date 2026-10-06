@@ -1,6 +1,6 @@
 # Blenvy Terms & Conditions
 
-**Version 1.0 · Effective 5 September 2026**
+**Version 1.1 · Effective 6 October 2026**
 
 ## 1. Introduction
 
@@ -28,13 +28,13 @@ By creating an Account or expressly accepting these Terms in the application, yo
 
 ## 3. Eligibility
 
-The initial Blenvy service is available only to people aged 18 or over in Malta who have legal capacity to enter into these Terms. By creating an Account, you confirm that you meet these requirements.
+The initial Blenvy service is available only to people aged 18 or over who live in Malta and have legal capacity to enter into these Terms. Before using the application, you must actively confirm that you are 18 or older and live in Malta. This is a self-declaration: Blenvy does not routinely verify your identity, age, or residence.
 
 ## 4. Accounts and acceptance
 
 You must provide accurate account information and keep profile information reasonably up to date. You are responsible for maintaining control of the email account, third-party login account, device, and session used to access Blenvy. Tell us promptly at [support@blenvy.com](mailto:support@blenvy.com) if you believe your Account has been accessed without permission.
 
-The signup screen presents links to the Terms and Privacy Policy and states that creating an Account means agreeing to the Terms and acknowledging the Privacy Policy. Blenvy records the applicable legal-document versions. Existing users may be required to review and accept updated versions before continuing. Marketing and research choices are separate and optional.
+The sign-in screen presents links to the Terms and Privacy Policy. After email or third-party sign-in, you must confirm eligibility, accept the Terms, and acknowledge the Privacy Policy before using the application. Blenvy records the applicable legal-document versions and acknowledgement time; acceptance of Terms version 1.1 includes this eligibility declaration. Existing users must also make this confirmation when accepting version 1.1. Marketing and research choices are separate and optional.
 
 ## 5. Using Blenvy
 
