@@ -1,6 +1,6 @@
 # Blenvy Privacy Policy
 
-**Version 1.0 · Effective 5 September 2026**
+**Version 1.1 · Effective 6 October 2026**
 
 ## 1. Introduction and scope
 
@@ -98,8 +98,8 @@ Current or planned launch providers include:
 | RevenueCat | Store subscription entitlement synchronisation; receives a Blenvy user identifier and purchase, product, store, and entitlement information when mobile store offerings are used. |
 | Apple and Google | Optional login, app distribution, and store subscriptions; independently process account, authentication, receipt, and payment information. |
 | Resend / authentication email provider | Operational notifications, support replies, and passwordless login delivery. |
-| Cloudflare | Website hosting, content delivery, DNS, traffic security and restricted Operations access; ordinary request and access metadata. |
-| GitHub | Development and deployment operations, including build metadata; not a deliberate destination for customer financial records. |
+| Cloudflare | Website hosting, content delivery, DNS, traffic security and restricted Operations access; ordinary request and access metadata. Cloudflare R2 also stores encrypted database backups in a European Union-restricted bucket. |
+| GitHub | Development and deployment operations. GitHub-hosted automation also temporarily processes database records, including account and financial information, to create, encrypt and verify recovery backups. Backups are not intentionally published in repositories, workflow logs or downloadable build artifacts. |
 | Sentry | Redacted error and crash diagnostics, build information and technical context. |
 
 Providers may process information outside Malta or the EEA. Where a transfer requires safeguards, these must be supported by an applicable adequacy decision or appropriate safeguards, such as approved standard contractual clauses and any necessary supplementary measures. Contact privacy@blenvy.com for information about the safeguards applicable to your data. EU storage does not mean all provider operations remain in the EEA.
@@ -109,6 +109,14 @@ Providers may process information outside Malta or the EEA. Where a transfer req
 We retain Account and private product records while needed to provide the service and remove them through the Account-deletion process, subject to applicable legal exceptions. Minimum shared facts are retained only while needed to preserve remaining Members’ records; identity stripping does not guarantee anonymity where context identifies a person. We review that need when handling erasure requests and when the relevant Group is no longer needed.
 
 Raw first-party operational events and daily presence records are deleted after 90 days. Ordinary support, feedback and bug-report records are deleted 12 months after the matter is marked resolved, unless a documented legal obligation or unresolved dispute requires longer retention. Legal, security and billing records are kept only for a documented obligation or necessary purpose. Provider backups, logs and diagnostic records follow verified provider retention cycles and may not be erased immediately by Account deletion. Local storage follows the lifecycle described in our browser-storage notice. You can ask us about the retention criteria applicable to a particular record.
+
+We make daily recovery backups to help restore Blenvy if something goes wrong. They include account, financial and other database records, together with a limited customer contact list for essential service notices. The backups are encrypted before they are sent to Cloudflare R2, and access is restricted. The key needed to open them is kept separately from the backup storage.
+
+The backup job temporarily handles database records on a GitHub-hosted runner before encryption. Temporary files are removed when the job ends; they are not intentionally kept as workflow logs or build artifacts.
+
+Our routine backup-storage rules protect each backup from deletion or replacement for 14 days and schedule it to expire after 16 days. The storage provider completes expiry asynchronously, so removal is not guaranteed at the exact 16-day mark. This schedule applies to routine R2 copies. Any separately downloaded recovery copy must be tracked, protected and removed when it is no longer needed for the documented recovery or investigation purpose.
+
+Deleting your account removes your data from the active service through the deletion process. Earlier backups may still contain it until those copies expire or are removed. They are held for recovery, not ordinary product use or marketing. Any recovery must take completed deletion and closure requests into account before the restored service is reopened.
 
 ## 13. Account deletion and export
 
