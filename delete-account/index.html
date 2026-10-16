@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="How to request deletion of your Blenvy account and associated data, including without installing the app.">
+  <title>Delete your Blenvy account</title>
+  <style>
+    :root { color-scheme: light dark; font: 1rem/1.65 system-ui, sans-serif; }
+    body { margin: 0; background: #f4f7fb; color: #19252b; }
+    main { max-width: 46rem; margin: auto; padding: 2rem 1.25rem 4rem; }
+    h1, h2 { line-height: 1.25; }
+    h1 { font-size: clamp(1.8rem, 6vw, 2.6rem); }
+    h2 { font-size: 1.35rem; margin-top: 2rem; }
+    a { color: #00657a; text-underline-offset: .2em; overflow-wrap: anywhere; }
+    li { margin: .6rem 0; }
+    .request { border: 1px solid #abc3cb; border-radius: 1rem; padding: 1.25rem; background: #fff; }
+    .button { display: inline-block; padding: .7rem 1rem; border-radius: .6rem; background: #00657a; color: #fff; font-weight: 600; }
+    :focus-visible { outline: 3px solid #bc6400; outline-offset: 4px; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #121c22; color: #edf4f6; }
+      .request { background: #1d2b33; border-color: #57717a; }
+      a { color: #8cdeed; }
+      .button { background: #8cdeed; color: #10262d; }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <nav aria-label="Blenvy"><a href="/">Blenvy home</a> · <a href="/privacy">Privacy policy</a></nav>
+  <h1>Delete your Blenvy account</h1>
+  <p>You can request deletion of your Blenvy account and its associated data without installing or opening the app.</p>
+  <section class="request" aria-labelledby="request-heading">
+    <h2 id="request-heading">Request deletion by email</h2>
+    <ol>
+      <li>Email <a href="mailto:privacy@blenvy.com?subject=Blenvy%20account%20deletion%20request">privacy@blenvy.com</a> from the email address linked to your Blenvy account. Use the subject <strong>Blenvy account deletion request</strong> and say that you want your account and associated data deleted.</li>
+      <li>We will verify account ownership before taking action. Never send your password, sign-in codes, card details or financial documents. If you cannot access your account email, contact the same address so we can discuss a proportionate verification method.</li>
+      <li>We will explain any shared-record or legal retention that applies and confirm the outcome. Sending an email starts a request; it does not immediately delete an account.</li>
+    </ol>
+    <a class="button" href="mailto:privacy@blenvy.com?subject=Blenvy%20account%20deletion%20request">Email a deletion request</a>
+    <p>No email app configured? Copy <strong>privacy@blenvy.com</strong> into your usual email service.</p>
+  </section>
+  <h2>Delete from the app instead</h2>
+  <p>In Blenvy, open <strong>Profile → Account → Delete my account</strong>. Complete the identity-verification and confirmation steps. Self-service deletion is processed asynchronously. Pending settlements must first be resolved and an active store subscription must show as cancelled. If you cannot complete these steps, use the email route above; you can still initiate a request.</p>
+  <h2>Subscriptions</h2>
+  <p>Requesting account deletion is not a subscription-cancellation instruction. Cancel recurring billing separately in Google Play or the Apple App Store. Explain any cancellation or settlement difficulty in your email so we can help you with the request.</p>
+  <h2>What is deleted</h2>
+  <p>Completed account deletion removes the Blenvy authentication identity, profile, private financial records and other private account records from the active service. It also requests deletion of the RevenueCat customer record. On retained shared financial records, profile information, the original user identifier, descriptions, notes, categories and import details are removed as part of identity stripping.</p>
+  <h2>What may be retained, and for how long</h2>
+  <ul>
+    <li><strong>Minimum shared accounting facts:</strong> dates, amounts, currencies, allocations and completed settlement roles may remain where removing them would corrupt other members’ ledger history. They are retained only while needed to preserve those records, with that need reviewed during erasure requests and when a group is no longer needed. Context within a small group can still identify a participant; identity stripping is not a guarantee of anonymity.</li>
+    <li><strong>Recovery backups:</strong> routine encrypted backup copies are protected for 14 days and scheduled to expire after 16 days. Provider expiry is asynchronous, not guaranteed at the exact 16-day mark. Separately retained recovery copies must be tracked and removed when no longer needed. Restoring a backup must respect completed deletion requests.</li>
+    <li><strong>Operational and support records:</strong> user-linked operational records are removed through completed account deletion where applicable. The ordinary retention limits are 90 days for raw operational events and daily presence, and 12 months after resolution for support, feedback and bug reports, unless an unresolved dispute or documented legal obligation requires longer retention.</li>
+    <li><strong>Provider, security and legally required records:</strong> app-store, billing, email-delivery, hosting, diagnostic and provider-backup records may follow separate retention cycles. Legal, security or billing records are kept only for a documented obligation or necessary purpose. Ask us for the retention criteria applying to your request; we do not promise immediate deletion from all third-party systems.</li>
+  </ul>
+  <h2>Response and help</h2>
+  <p>We respond without undue delay and normally within one month. If a permitted extension is needed because of complexity or the number of requests, we explain it within that first month. See the <a href="/privacy">Blenvy privacy policy</a> for the full data-handling and rights information.</p>
+  <p>Contact: <a href="mailto:privacy@blenvy.com">privacy@blenvy.com</a>. Do not send sensitive account information to anyone claiming to handle deletion outside this published route.</p>
+</main>
+</body>
+</html>
